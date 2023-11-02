@@ -1,0 +1,24 @@
+.orientation {
+  text-orientation: upright;
+}
+.vertical-text {
+    writing-mode: vertical-lr; 
+    white-space: nowrap; 
+  }
+/* .vertical-text {
+  transform: rotate(90deg);
+  transform-origin: left bottom;
+  white-space:nowrap;
+  font-size: 2rem;
+} */
+.table {
+		border-spacing: 0 5px;
+	}
+
+	i {
+		font-size: 1rem !important;
+	}
+
+	
+
+	
